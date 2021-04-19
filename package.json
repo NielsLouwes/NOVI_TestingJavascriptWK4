@@ -1,0 +1,15 @@
+{
+  "name": "novitestmedestudent1",
+  "version": "1.0.0",
+  "description": "Creating a test for fellow student, week 4 of Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test": "test:watch”:  npx jest --watch"
+  },
+  "author": "Niels Louwes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
